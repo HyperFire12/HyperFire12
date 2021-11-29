@@ -1,4 +1,4 @@
-### Hello there, I'm Christopher!
+### Hello there, I'm Christopher! 👋
 <ul>
 <li> I'm a Computer Engineering student at the University of Waterloo.<br /></li>
 <li> I'm currently learning new languages and I'm learning to work with AWS. <br /></li>
