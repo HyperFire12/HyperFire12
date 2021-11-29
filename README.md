@@ -1,8 +1,9 @@
 ### Hello there, I'm Christopher!
-<ul> I'm a Computer Engineering student at the University of Waterloo.<br /></ul>
-<ul> I'm currently learning new languages and I'm learning to work with AWS. <br /></ul>
-<ul> Don't be afraid to contact me at ctkleung@uwaterloo.ca. <br /></ul>
-
+<ul>
+<li> I'm a Computer Engineering student at the University of Waterloo.<br /></li>
+<li> I'm currently learning new languages and I'm learning to work with AWS. <br /></li>
+<li> Don't be afraid to contact me at ctkleung@uwaterloo.ca. <br /></li>
+</ul>
 <!--
 Hello there, I'm Christopher!
  I'm a Computer Engineering student at the University of Waterloo.
